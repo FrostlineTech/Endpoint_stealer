@@ -64,6 +64,10 @@ and *ethical* manner are welcome. All contributions must adhere to the
 [Code of Conduct](CODE_OF_CONDUCT.md) and abide by applicable laws and
 regulations.
 
-## License
+## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+[Dakota Fryberger - CEO at Frostline Solutions LLC]
